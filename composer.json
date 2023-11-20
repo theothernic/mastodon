@@ -1,0 +1,10 @@
+{
+    "name": "bearlovescode/mastodon",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Bearlovescode\\Mastodon\\": "src/"
+        }
+    },
+    "require": {}
+}
