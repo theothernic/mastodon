@@ -6,5 +6,7 @@
             "Bearlovescode\\Mastodon\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
 }
