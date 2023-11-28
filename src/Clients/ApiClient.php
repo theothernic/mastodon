@@ -9,4 +9,9 @@
         {
 
         }
+
+        public function authenticate()
+        {
+
+        }
     }
